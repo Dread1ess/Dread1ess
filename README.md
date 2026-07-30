@@ -6,10 +6,10 @@ I specialize in **Linux System Administration**, **Debian-based Server Managemen
 
 * **Operating Systems:** Debian, Ubuntu Server, Proxmox VE, Fedora Workstation
 * **Virtualization & Containers:** Proxmox VE (HA, ZFS, PBS), KVM, Docker, Docker Compose, LXC
-* **Automation & Scripting:** Bash, Python, Ansible, Shell Automation, CI/CD
+* **Automation & Scripting:** Bash, Python, Ansible, Shell Automation, CI/CD, Rust, GO
 * **Web & Infrastructure:** Nginx, Reverse Proxies, Cloudflare, TLS/SSL, DNS/DHCP
 * **Security & Pentest:** Network Security, Log Analysis, Vulnerability Scanning, Linux Hardening
-* **Storage & Networking:** ZFS Storage Pools, VLANs, Linux Bridging, Firewall Configuration
+* **Storage & Networking:** ZFS Storage Pools, VLANs, Linux Bridging, Firewall Configuration, PostgreSQL, MySQL, Redis 
 
 ### 💻 Current Focus
 
