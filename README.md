@@ -2,8 +2,6 @@
 
 I specialize in **Linux System Administration**, **Debian-based Server Management**, **Proxmox VE Virtualization**, and **Infrastructure Automation**. 
 
----
-
 ### 🛠 Tech Stack & Tools
 
 * **Operating Systems:** Debian, Ubuntu Server, Proxmox VE, Fedora Workstation
@@ -12,8 +10,6 @@ I specialize in **Linux System Administration**, **Debian-based Server Managemen
 * **Web & Infrastructure:** Nginx, Reverse Proxies, Cloudflare, TLS/SSL, DNS/DHCP
 * **Security & Pentest:** Network Security, Log Analysis, Vulnerability Scanning, Linux Hardening
 * **Storage & Networking:** ZFS Storage Pools, VLANs, Linux Bridging, Firewall Configuration
-
----
 
 ### 💻 Current Focus
 
