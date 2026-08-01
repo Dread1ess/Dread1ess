@@ -1,5 +1,8 @@
 ### 🛠 Tech Stack & Tools
 
+**Before this**
+Started coding with Java (CRUD apps, JWT auth, WEB clones) — [old projects here](https://github.com/Odysseus64)
+
 **✅ Core skills — hands-on experience**
 - Operating Systems: Debian, Ubuntu Server, Fedora Workstation
 - Virtualization & Containers: Docker, Docker Compose
@@ -17,8 +20,5 @@
 - Languages: Rust, Go
 - Storage & Networking: ZFS Storage Pools, VLANs, Linux Bridging
 - Databases: Redis
-
-### 🕰 Before this
-Started coding with Java (CRUD apps, JWT auth, WEB clones) — [old projects here](https://github.com/Odysseus64)
 
 <img src="steins-gate-el-psy-congroo.gif" width="500" alt="El. Psy. Kongroo.">
