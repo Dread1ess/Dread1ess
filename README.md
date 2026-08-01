@@ -17,3 +17,4 @@
 - Languages: Rust, Go
 - Storage & Networking: ZFS Storage Pools, VLANs, Linux Bridging
 - Databases: Redis
+<img src="steins-gate-el-psy-congroo.gif" width="500" alt="El. Psy. Kongroo.">
