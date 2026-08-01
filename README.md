@@ -21,4 +21,4 @@ Started coding with Java (CRUD apps, JWT auth, WEB clones) — [old projects her
 - Storage & Networking: ZFS Storage Pools, VLANs, Linux Bridging
 - Databases: Redis
 
-<img src="steins-gate-el-psy-congroo.gif" width="500" alt="El. Psy. Kongroo.">
+  <img src="steins-gate-el-psy-congroo.gif" width="500" alt="El. Psy. Kongroo.">
