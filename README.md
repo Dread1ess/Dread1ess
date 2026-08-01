@@ -7,7 +7,7 @@
 - Web & Infrastructure: Nginx, Reverse Proxies, Cloudflare, TLS/SSL, DNS/DHCP
 - Backend Development, Database Design & Management
 - Databases: PostgreSQL, MySQL
-- Security: OWASP, MITRE ATT&CK, Security Auditing, Log Analysis, Vulnerability Scanning, Linux Hardening, Network Troubleshooting Tools (nmap, wireshark, tcpdump)
+- Security: OWASP, MITRE ATT&CK, Security Auditing, Log Analysis, Vulnerability Scanning, Linux Hardening, Network Troubleshooting Tools (nmap, wireshark, tcpdump), BurpSuite
 
 **📚 Learning / basic level**
 - Frontend Development (JS basics)
