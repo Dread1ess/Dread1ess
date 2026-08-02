@@ -13,7 +13,7 @@ Started coding with Java (CRUD apps, JWT auth, WEB clones) — [old projects her
 - Security: OWASP, MITRE ATT&CK, Security Auditing, Log Analysis, Vulnerability Scanning, Linux Hardening, Network Troubleshooting Tools (nmap, wireshark, tcpdump), BurpSuite
 
 **📚 Learning / basic level**
-- Frontend Development (JS basics)
+- Frontend Development (TS basics)
 - Virtualization: Proxmox VE (HA, ZFS, PBS), KVM, LXC
 - Cloud: AWS, Azure
 - Automation: Ansible, CI/CD
