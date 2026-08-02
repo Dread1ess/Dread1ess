@@ -1,7 +1,9 @@
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 
-**Before this**
-Started coding with Java (CRUD apps, JWT auth, WEB clones) — [old projects here](https://github.com/Odysseus64)
+**Before this** - Started coding with Java (CRUD apps, JWT auth, WEB clones) at [Odysseus64](https://github.com/Odysseus64), then moved into pentesting before landing in DevOps.
+
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Dread1ess)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019c756a-9310-72cb-a3de-c7912019ca2a)
 
 **✅ Core skills — hands-on experience**
 - Operating Systems: Debian, Ubuntu Server, Fedora Workstation
@@ -13,7 +15,7 @@ Started coding with Java (CRUD apps, JWT auth, WEB clones) — [old projects her
 - Security: OWASP, MITRE ATT&CK, Security Auditing, Log Analysis, Vulnerability Scanning, Linux Hardening, Network Troubleshooting Tools (nmap, wireshark, tcpdump), BurpSuite
 
 **📚 Learning / basic level**
-- Frontend Development (TS basics)
+- Frontend Development (JS basics)
 - Virtualization: Proxmox VE (HA, ZFS, PBS), KVM, LXC
 - Cloud: AWS, Azure
 - Automation: Ansible, CI/CD
@@ -22,6 +24,3 @@ Started coding with Java (CRUD apps, JWT auth, WEB clones) — [old projects her
 - Databases: Redis
 
 <img src="steins-gate-el-psy-congroo.gif" width="500" alt="El. Psy. Kongroo.">
-
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Dread1ess)
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019c756a-9310-72cb-a3de-c7912019ca2a)
