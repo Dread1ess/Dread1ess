@@ -1,8 +1,7 @@
 <img src="makise kurisu.jpeg" width="290" align="left" alt="El. Psy. Kongroo.">
 
 <div align="justify">
-
-### Tech Stack & Tools
+  
 ### 👋 Hey, I'm Dread1ess
 
 DevSecOps & Security-minded engineer. I automate infrastructure by day, break into it (ethically) by hobby, and build random side projects because I genuinely enjoy the process.<br><br>
@@ -10,7 +9,9 @@ DevSecOps & Security-minded engineer. I automate infrastructure by day, break in
 
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Dread1ess)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019c756a-9310-72cb-a3de-c7912019ca2a)
-<br><br><br>
+<br><br><br><br>
+
+
 **✅ Core skills hands-on experience**
 - Operating Systems: Debian, Ubuntu Server, Fedora Workstation
 - Virtualization & Containers: Docker, Docker Compose
