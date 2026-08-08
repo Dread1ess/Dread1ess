@@ -6,7 +6,7 @@
 
 DevSecOps & Security-minded engineer. I automate infrastructure by day, break into it (ethically) by hobby, and build random side projects because I genuinely enjoy the process.<br><br>
 **Before this** - Started coding with Java (CRUD apps, JWT auth, WEB clones) at [Odysseus64](https://github.com/Odysseus64), then moved into pentesting before landing in DevOps.
-
+<br><br>
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Dread1ess)
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019c756a-9310-72cb-a3de-c7912019ca2a)
 <br><br><br><br>
